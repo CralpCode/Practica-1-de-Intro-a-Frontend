@@ -1,4 +1,5 @@
-# :tw-1f30c:  Practicas-de-Intro-a-Frontend
+![](https://avatars.githubusercontent.com/u/110853422?s=200&v=4)
+#Practicas-de-Intro-a-Frontend
 Práctica 1 del curso de Launch X
 1. Requerimientos 
 2. Publico objetivo
@@ -23,3 +24,5 @@ Buyer persona, o simplemente persona, es un personaje ficticio que se construye 
 ## 2.Publico objetivo
 ## 3.Primer Wirefreame (use balsamiq)
 ## 4.Primer UI (use figma)
+
+
