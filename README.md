@@ -1,6 +1,6 @@
 ![](https://avatars.githubusercontent.com/u/110853422?s=200&v=4)
-#Practicas-de-Intro-a-Frontend
-Práctica 1 del curso de Launch X
+# Practicas-de-Intro-a-Frontend
+## Práctica 1 del curso de Launch X
 1. Requerimientos 
 2. Publico objetivo
 3. Primer Wirefreame (use balsamiq)
