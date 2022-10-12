@@ -40,6 +40,8 @@ Buyer persona, o simplemente persona, es un personaje ficticio que se construye 
 
 ## 2.Publico objetivo
 
+<img src="/Abogabot/PersonasObjetivo.jpg" />
+
 ## 3.Primer Wirefreame UX (use balsamiq)
 
 ### Usuario
