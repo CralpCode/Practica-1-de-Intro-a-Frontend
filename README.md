@@ -65,4 +65,10 @@ Buyer persona, o simplemente persona, es un personaje ficticio que se construye 
 
 ## 4.Primer Wireframe UI (use figma)
 
+### Usuario
+
+
+
+### Administrador
+
 
