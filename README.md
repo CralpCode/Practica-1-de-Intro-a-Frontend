@@ -71,15 +71,15 @@ Buyer persona, o simplemente persona, es un personaje ficticio que se construye 
 
 ### Administrador
 
-## Inicio de sesión
+#### Inicio de sesión
 <img src="/Abogabot/Inicio-de-Sesion.png" />
 
-## Página de notificaciones
+#### Página de notificaciones
 <img src="/Abogabot/Pagina-principal-notifiaciones.png" />
 
-## Página de comentarios
+#### Página de comentarios
 <img src="/Abogabot/Pagina-principal-comentarios.png" />
 
-## Página de transaccciones
+#### Página de transaccciones
 <img src="/Abogabot/Pago.png" />
 
