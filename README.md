@@ -65,21 +65,40 @@ Buyer persona, o simplemente persona, es un personaje ficticio que se construye 
 
 ## 4.Primer Wireframe UI (use figma)
 
-### Usuario
+## Usuario
 
+### Inicio de sesión
+<img src="/Abogabot/Inicio-de-Sesion-Usuario.png" />
 
+### Creación de cuenta
+<img src="/Abogabot/Creacion-de-cuenta.png" />
 
-### Administrador
+### Formulario
+<img src="/Abogabot/Formulario-usuario.png" />
 
-#### Inicio de sesión
+### Procesos
+<img src="/Abogabot/Procesos.png" />
+
+### Pago
+<img src="/Abogabot/Pago-usuario.png" />
+
+### Página de notificaciones
+<img src="/Abogabot/Pagina-principal-notifiaciones-Usuario.png" />
+
+### Página de comentarios
+<img src="/Abogabot/Pagina-principal-comentarios-Usuario.png" />
+
+## Administrador
+
+### Inicio de sesión
 <img src="/Abogabot/Inicio-de-Sesion.png" />
 
-#### Página de notificaciones
+### Página de notificaciones
 <img src="/Abogabot/Pagina-principal-notifiaciones.png" />
 
-#### Página de comentarios
+### Página de comentarios
 <img src="/Abogabot/Pagina-principal-comentarios.png" />
 
-#### Página de transaccciones
+### Página de transaccciones
 <img src="/Abogabot/Pago.png" />
 
